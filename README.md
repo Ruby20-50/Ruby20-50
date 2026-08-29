@@ -9,11 +9,11 @@
 
 I'm Ruba Mogalli, a Media Informatics student building a foundation in computer Science. What is most important to me is to learn concepts well and clean implementation. I have had focus on Quality Assurance and debugging, Unit testing and End2End testing. Currently, Looking for a working student role in software testing/QA to build on this in a real product environment.
 
-### 🚀 Tech Arsenal
+### 🚀 Technical skills
 | Domain / Area                | Tools, Frameworks & Focus                                                              |
 |-------------------------------|------------------------------------------------------------------------------------------|
 | ✅ Testing & QA                | JUnit 5, Jest, Playwright, Page Object Model, test pyramid, integration & E2E testing, coverage criteria (C0/C1/C2), McCabe complexity, Halstead metrics |
-| 💻 Languages                   | Java (primary), JavaScript/TypeScript (ES6+), SQL/PostgreSQL, Python (basic), Rust (syntax) |
+| 💻 Languages                   | Java, JavaScript/TypeScript (ES6+), SQL/PostgreSQL, Python (basic), Rust |
 | 🌐 Systems & Networking        | TCP/UDP sockets, HTTP fundamentals, raw-socket programming, reverse proxies, Docker networking |
 | 🗃️ Databases                   | PostgreSQL, relational data modeling, schema design                                     |
 | 🛠️ Tools & DevOps              | Git, GitHub Actions (CI/CD), IntelliJ IDEA, VS Code, Maven, Docker, MS Office            |
@@ -42,10 +42,9 @@ I'm Ruba Mogalli, a Media Informatics student building a foundation in computer 
 [ Github-repo](https://github.com/Ruby20-50/saucedemo-playwright-tests)
 - **TravelPlanner Test Suite** (Java/JUnit 5) — 29-test suite for a Java desktop application, extracted into a standalone, documented repository.
 [ Github-repo](https://github.com/Ruby20-50/TravelPlanner)
-- **Quality Management Handbook** — Defined and documented testable quality criteria (availability, security, usability, compatibility) for a fictional platform as part of a team.
+- **Quality Management Handbook** — Defined and documented testable quality criteria (availability, security, usability, compatibility) for a project management platform as part of a team.
 [Google Doc] (https://docs.google.com/document/d/1H521O-aS_Wf3Qp4pFVRm5u_9xkbmC-d8lmalgGApqPI/edit?usp=sharing)
 - **Software Quality Metrics — Attractive Numbers Algorithm** — Applied McCabe cyclomatic complexity and Halstead metrics; derived control-flow graphs and test cases for C0/C1/C2 coverage. [Google-doc](https://docs.google.com/document/d/18_hESpsW-q_ohTIzqBqyxQ9CzmuBfZT4/edit?usp=sharing&ouid=111040296353479426830&rtpof=true&sd=true)
-- Selected repositories: `dsa-practice`, `os-labs`, `saucedemo-playwright-tests`, `verteilteSysteme` — [github.com/Ruby20-50](https://github.com/Ruby20-50)
 
 ---
 ## ⚡ Technologies & Tools
@@ -82,7 +81,7 @@ I'm Ruba Mogalli, a Media Informatics student building a foundation in computer 
 ## 🌍 Languages
 
 - **Arabic** 🇸🇦 — Native Speaker
-- **English** 🇬🇧 — Fluent
+- **English** us — Fluent
 - **German** 🇩🇪 — Advanced (B2)
 
 ---
