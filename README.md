@@ -1,10 +1,10 @@
 <h1 align="left"> About Me: </h1>
 
-<h3 align="left">🔍 Software QA & Testing | Media Informatics Student w</h3>
+<h3 align="left">🔍 Software QA & Testing | Media Informatics Student</h3>
 <p align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=ffffff&center=true&vCenter=true&width=300&lines=oh+that+is+an+idea+%F0%9F%92%A1;oh+that+is+how+it+works+%F0%9F%98%B2;oh+no+not+this+%F0%9F%98%9F" alt="Typing SVG"  />
 </p>
-<img align="right" src="cat_transparent.svg" width="200" />
+<img align="right" src="Profile.svg" width="200" />
 
 
 I'm Ruba Mogalli, a Media Informatics student building a foundation in computer Science. What is most important to me is to learn concepts well and clean implementation. I have had focus on Quality Assurance and debugging, Unit testing and End2End testing. Currently, Looking for a working student role in software testing/QA to build on this in a real product environment.
