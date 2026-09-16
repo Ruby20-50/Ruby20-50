@@ -43,7 +43,7 @@ I'm Ruba Mogalli, a Media Informatics student building a foundation in computer 
 [ Github-repo](https://github.com/Ruby20-50/TravelPlanner)
 
 - **Quality Management Handbook** — Defined and documented testable quality criteria (availability, security, usability, compatibility) for a project management platform as part of a team.
-[Google Doc] (https://docs.google.com/document/d/1H521O-aS_Wf3Qp4pFVRm5u_9xkbmC-d8lmalgGApqPI/edit?usp=sharing)
+[Google Doc](https://docs.google.com/document/d/1H521O-aS_Wf3Qp4pFVRm5u_9xkbmC-d8lmalgGApqPI/edit?usp=sharing)
 
 - **Software Quality Metrics — Attractive Numbers Algorithm** — Applied McCabe cyclomatic complexity and Halstead metrics; derived control-flow graphs and test cases for C0/C1/C2 coverage. [Google-doc](https://docs.google.com/document/d/18_hESpsW-q_ohTIzqBqyxQ9CzmuBfZT4/edit?usp=sharing&ouid=111040296353479426830&rtpof=true&sd=true)
 
